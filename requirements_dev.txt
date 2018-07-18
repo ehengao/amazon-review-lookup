@@ -1,0 +1,11 @@
+click==6.7
+pytest>=3.6.3
+pre-commit>=1.10.3
+pytest-cov>=2.5.1
+pytest-flake8>=1.0.1
+pytest-xdist>=1.20.1
+flake8-isort>=2.5.0
+pytest-black>=0.1.6
+tox>=3.1.2
+bumpversion>=0.5.3
+Sphinx>=1.7.5

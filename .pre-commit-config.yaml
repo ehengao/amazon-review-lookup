@@ -1,0 +1,9 @@
+repos:
+-   repo: local 
+    hooks:
+    - id: tox
+      name: tox
+      entry: tox
+      language: system
+      language_version: python3.6
+      types: [python]
