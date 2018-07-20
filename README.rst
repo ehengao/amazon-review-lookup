@@ -2,7 +2,7 @@
 README
 ======
 
-Amazon Product bad reviews lookup
+Amazon Product Bad reviews lookup
 
 Features
 --------
